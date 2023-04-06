@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, Summer here :lotus_position_woman:
 
 <!--
 **sallyhoneybee/sallyhoneybee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Spotify Song](https://music-stalking.vercel.app//api?scan=true)
+
