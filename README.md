@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Spotify Song](https://music-stalking.vercel.app//api?scan=true)
+![Spotify Song](https://music-stalking.vercel.app//api?theme=dark&scan=true&rainbow=true)
 
