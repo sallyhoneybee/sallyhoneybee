@@ -1,5 +1,7 @@
 ### Hello there, Summer here :lotus_position_woman:
 
+If you want to stalk my now playings I've made that easy for you
+
 <!--
 **sallyhoneybee/sallyhoneybee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
