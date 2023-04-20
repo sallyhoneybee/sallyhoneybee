@@ -4,7 +4,7 @@
 
 ### Hello there, Summer here :lotus_position_woman:
 Never would I have thought to fall in love with codes. But here I am after a great run with Le Wagon's 9 week intensive bootcamp. Right now, I just want to keep building and building.... and building. Call me Bob the Builder. Always  excited to connect and communicate with new people so do drop me a bzzt bzzt! <br>
-[Instagram](https://www.instagram.com/thefatdog/) | [Linkedin](https://www.linkedin.com/in/summercjx/) | [Portfolio](summerchew.com)
+[Instagram](https://www.instagram.com/thefatdog/) | [Linkedin](https://www.linkedin.com/in/summercjx/) | [Portfolio](https://www.summerchew.com)
 <br>
 <br>
 
