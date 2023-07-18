@@ -8,7 +8,7 @@ Never would I have thought to fall in love with codes. But here I am after a gre
 <br>
 <br>
 
-### Currently on my #100DaysOfCode 👩🏻‍💻
+## Currently on my #100DaysOfCode 👩🏻‍💻
 You can keep track of my progress on [Threads](https://www.threads.net/@thefatdog) and [Twitter](https://twitter.com/sallyhoneybee),  and even join me on this journey as I tackle Data Structures and Algorithms, React.js in all its glory, Next.js, Typescript and hopefully Three.js. Yes, it is very Javascript heavy! I also do have a side quest to cover the basics of Traditional Chinese Medicine during these 100 days ☯ and hopefully strengthen my knowledge in chinese herbalogy 🫚🌿. 
 <br>
 <br>
@@ -17,7 +17,7 @@ You can keep track of my progress on [Threads](https://www.threads.net/@thefatdo
 ## Visit my creative builds :building_construction:	 
 [Flower Space](https://flower-space.vercel.app/) <br>
 [Mama's Fortune Shop](https://fortune-cookie-rosy.vercel.app/)<br>
-[Fall Winter Charles and Keith (my personal take)]([https://fortune-cookie-rosy.vercel.app/](https://fall-winter-project.vercel.app/)
+[Fall Winter Charles and Keith (my personal take)](https://fall-winter-project.vercel.app/)
 
 ## Cool Projects I have worked on/ am working on
 [Soundstate](https://soundstate.live/) | [Soundstate GitHub](https://github.com/weepotty/soundstate) 
