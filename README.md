@@ -8,11 +8,8 @@ Never would I have thought to fall in love with codes. But here I am after a gre
 <br>
 <br>
 
-## Currently on my #100DaysOfCode 👩🏻‍💻
-You can keep track of my progress on [Threads]([https://www.instagram.com/thefatdog/](https://www.threads.net/@thefatdog)) and [Twitter](https://twitter.com/sallyhoneybee),  and even join me on this journey as I tackle Data Structures and Algorithms, React.js in all its glory, Next.js, Typescript and hopefully Three.js. Yes, it is very Javascript heavy! I also do have a side quest to cover the basics of Traditional Chinese Medicine during these 100 days ☯ and hopefully strengthen my knowledge in chinese herbalogy 🫚🌿. 
-<br>
-
-
+### Currently on my #100DaysOfCode 👩🏻‍💻
+You can keep track of my progress on [Threads](https://www.threads.net/@thefatdog) and [Twitter](https://twitter.com/sallyhoneybee),  and even join me on this journey as I tackle Data Structures and Algorithms, React.js in all its glory, Next.js, Typescript and hopefully Three.js. Yes, it is very Javascript heavy! I also do have a side quest to cover the basics of Traditional Chinese Medicine during these 100 days ☯ and hopefully strengthen my knowledge in chinese herbalogy 🫚🌿. 
 <br>
 <br>
 
